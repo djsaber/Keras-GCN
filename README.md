@@ -22,4 +22,4 @@ GCN概述<br />
 数据集：<br />
 cora：包含2708篇科学出版物网络，共有5429条边，总共7种类别。<br />
 数据集中的每个出版物都由一个 0/1 值的词向量描述，表示字典中相应词的缺失/存在。 该词典由 1433 个独特的词组成。<br />
-链接：https://pan.baidu.com/s/1iBNmixiuORjpHjDSFephcg?pwd=52dl 提取码：52dl<br /><br />
+链接：https://pan.baidu.com/s/1u7v3oJcTvnFWAhHdSLHwtA?pwd=52dl 提取码：52dl
